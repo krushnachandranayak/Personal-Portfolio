@@ -40,6 +40,7 @@ const Contact = () => {
         </h2>
         <div className="row">
           {/* Form Column */}
+          
           <div className="col-md-6">
             <form onSubmit={handleSubmit}>
               <div className="mb-3">
