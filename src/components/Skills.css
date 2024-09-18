@@ -1,0 +1,20 @@
+/* Adding animation to the progress bar */
+.progress-bar {
+    transition: width 1s ease-in-out;
+  }
+  
+  /* Enhance hover effects on skill icons */
+  h4 i {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  h4 i:hover {
+    transform: scale(1.2);
+  }
+  
+  /* Additional styling for the section */
+  #skills {
+    padding: 50px 0;
+    background-color: #f9f9f9; /* Updated background color */
+  }
+  
