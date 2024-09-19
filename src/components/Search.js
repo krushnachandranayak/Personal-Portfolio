@@ -9,7 +9,7 @@ import {
   Highlight,
   Configure,
 } from 'react-instantsearch-dom';
-import './Search.css'; // Ensure this CSS file exists
+import './Search.css';
 
 // Initialize Algolia client using environment variables
 const searchClient = algoliasearch(
