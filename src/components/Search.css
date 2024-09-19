@@ -1,0 +1,50 @@
+/* src/components/Search.css */
+
+.search-section {
+    background-color: #f8f9fa;
+  }
+  
+  .hit {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .hit:last-child {
+    border-bottom: none;
+  }
+  
+  .hit h3 {
+    color: #007bff;
+  }
+  
+  .hit p {
+    color: #555;
+  }
+  
+  .hit a {
+    color: #ffcc00;
+    text-decoration: none;
+  }
+  
+  .hit a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Customize the SearchBox */
+  .ais-SearchBox {
+    margin-bottom: 20px;
+  }
+  
+  .ais-SearchBox-input {
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .ais-SearchBox-submit,
+  .ais-SearchBox-reset {
+    display: none; /* Hide default buttons */
+  }
+  
