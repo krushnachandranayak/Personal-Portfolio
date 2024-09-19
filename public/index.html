@@ -27,6 +27,17 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+    <script type="text/javascript">
+      algoliasearchNetlify({
+        appId: 'CKEC07XCIQ',
+        apiKey: '89e23469989368bf23b1a83a94e2b5f0',
+        siteId: '44b414f0-9ab5-43e5-83f2-7fb6befea51a',
+        branch: 'main',
+        selector: 'div#search',
+      });
+    </script>
     <title>Krushna Chandra Nayak | Web Developer Portfolio</title>
   </head>
   <body>
