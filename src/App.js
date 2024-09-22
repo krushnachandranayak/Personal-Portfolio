@@ -7,7 +7,6 @@ import Contact from './components/Contact';
 import Skills from './components/Skills';
 import Education from './components/Education';
 import Tools from './components/Tools';
-import Search from './components/Search';
 import './App.css'; // Ensure you have this for global styles
 
 function App() {
@@ -18,7 +17,6 @@ function App() {
       <About />
       <Education />
       <Skills />
-      <Search />
       <Projects />
       <Tools />
       <Contact />
