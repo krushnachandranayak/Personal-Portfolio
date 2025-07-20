@@ -36,29 +36,47 @@ const Skills = () => {
           <div className="col-md-4">
             <h4><i className="fab fa-html5" style={{ color: '#E34F26' }}></i> HTML</h4>
             <div className="progress mb-4">
-              <div className="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>90%</div>
+              <div className="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>100%</div>
             </div>
           </div>
           <div className="col-md-4">
-            <h4><i className="fab fa-css3-alt" style={{ color: '#1572B6' }}></i> CSS</h4>
+            <h4><i className="fab fa-css3-alt" style={{ color: '#E34F26' }}></i> CSS</h4>
             <div className="progress mb-4">
-              <div className="progress-bar bg-info" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>80%</div>
+              <div className="progress-bar bg-primary" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>100%</div>
             </div>
           </div>
           <div className="col-md-4">
             <h4><i className="fab fa-js" style={{ color: '#F7DF1E' }}></i> JavaScript</h4>
             <div className="progress mb-4">
-              <div className="progress-bar bg-warning" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>85%</div>
+              <div className="progress-bar bg-warning" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>95%</div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <h4><i className="fab fa-jsfiddle" style={{ color: '#F7DF1E' }}></i> jQuery</h4>
+            <div className="progress mb-4">
+              <div className="progress-bar bg-dark" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>95%</div>
             </div>
           </div>
           <div className="col-md-4">
             <h4><i className="fab fa-react" style={{ color: '#61DAFB' }}></i> React</h4>
             <div className="progress mb-4">
-              <div className="progress-bar bg-primary" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>75%</div>
+              <div className="progress-bar bg-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>90%</div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <h4><i className="fab fa-css3" style={{ color: '#06B6D4' }}></i> Tailwind CSS</h4>
+            <div className="progress mb-4">
+              <div className="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>90%</div>
             </div>
           </div>
           <div className="col-md-4">
             <h4><i className="fas fa-database" style={{ color: '#4DB33D' }}></i> MongoDB</h4>
+            <div className="progress mb-4">
+              <div className="progress-bar bg-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>70%</div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <h4><i className="fas fa-database" style={{ color: '#4DB33D' }}></i> MySQL</h4>
             <div className="progress mb-4">
               <div className="progress-bar bg-secondary" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>70%</div>
             </div>
@@ -67,6 +85,18 @@ const Skills = () => {
             <h4><i className="fab fa-java" style={{ color: '#007396' }}></i> Java</h4>
             <div className="progress mb-4">
               <div className="progress-bar bg-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>60%</div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <h4><i className="fab fa-js" style={{ color: '#F7DF1E' }}></i> Express.js</h4>
+            <div className="progress mb-4">
+              <div className="progress-bar bg-warning" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>100%</div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <h4><i className="fab fa-node-js" style={{ color: '#4DB33D' }}></i> Node.js</h4>
+            <div className="progress mb-4">
+              <div className="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style={{ width: '0%' }}>100%</div>
             </div>
           </div>
           <div className="col-md-4">

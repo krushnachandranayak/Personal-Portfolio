@@ -35,14 +35,12 @@ function App() {
             </a>
             <a href="https://www.instagram.com/krushnachandranayak0143/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-light mx-2">
               <i className="bi bi-instagram"></i>
-            </a><a href="https://www.threads.net/@krushnachandranayak0143" target="_blank" rel="noopener noreferrer" className="btn btn-outline-light mx-2">
-              <i className="bi bi-threads"></i>
-            </a><a href="https://www.facebook.com/sunilkumarnayak0143/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-light mx-2">
-              <i className="bi bi-facebook"></i>
             </a>
+            
+            
           </div>
           <p className="address mb-2">18 Chhendipada, Angul, Odisha, India,759124</p>
-          <p className="copyright mb-0">&copy; 2024 Mr. Krushna Chandra Nayak. All rights reserved.</p>
+          <p className="copyright mb-0">&copy; 2025 Mr. Krushna Chandra Nayak. All rights reserved.</p>
         </div>
       </footer>
     </div>

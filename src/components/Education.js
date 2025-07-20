@@ -42,7 +42,7 @@ const Education = () => {
                 <h5 className="card-title">Master in Computer Application</h5>
                 <h6 className="card-subtitle mb-2">Institute of Professional Studies & Research, Cuttack</h6>
                 <h6 className="card-subtitle mb-2 text-muted">Biju Patnaik University of Technology (BPUT)</h6>
-                <p className="card-text">Pursuing...</p>
+                <p className="card-text">Completed: 2025</p>
               </div>
             </div>
           </div>

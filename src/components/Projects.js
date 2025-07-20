@@ -23,11 +23,11 @@ const Projects = () => {
               previewLink: 'https://krushnachandranayak.github.io/Basic-Calculator/'
             },
             {
-              imgSrc: './project3.jpeg',
-              title: 'Age Calculator',
-              description: 'The Age Calculator can determine the age or interval between two dates.',
-              githubLink: 'https://github.com/krushnachandranayak/Age-calculator.git',
-              previewLink: 'https://krushnachandranayak.github.io/Age-calculator/'
+              imgSrc: './project3.avif',
+              title: 'To-Do List',
+              description: 'A simple To-Do List application to manage tasks efficiently. It allows users to add, edit, and delete tasks, providing a clean interface for task management.',
+              githubLink: 'https://github.com/krushnachandranayak/jQuery-Todo-App.git',
+              previewLink: 'https://sunil-jquery-todo-app.netlify.app/'
             },
             {
               imgSrc: './project4.jpg',

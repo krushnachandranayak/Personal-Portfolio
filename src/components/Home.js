@@ -19,7 +19,7 @@ const Home = () => {
           <TypingEffect
             text={[
               "Hello! I'm Mr. Krushna Chandra Nayak.",
-              "A passionate Front-End web developer with expertise in JavaScript, React, and various other technologies.",
+              "A passionate Full Stack web developer with expertise in JavaScript, React, and various other technologies.",
               "I thrive on creating dynamic and responsive web applications that provide excellent user experiences.",
               "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying a good book.",
               "Feel free to connect with me through the contact section or follow me on social media!"
