@@ -23,7 +23,7 @@ function App() {
       <footer id="footer">
         <div className="container text-center">
           <div className="social-links mb-3">
-          <p>-:Connect with me on social media:-</p>
+            <p>-:Connect with me on social media:-</p>
             <a href="https://linkedin.com/in/krushna-chandra-nayak-271271218/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-light mx-2">
               <i className="bi bi-linkedin"></i>
             </a>
@@ -36,11 +36,11 @@ function App() {
             <a href="https://www.instagram.com/krushnachandranayak0143/" target="_blank" rel="noopener noreferrer" className="btn btn-outline-light mx-2">
               <i className="bi bi-instagram"></i>
             </a>
-            
-            
+
+
           </div>
           <p className="address mb-2">18 Chhendipada, Angul, Odisha, India,759124</p>
-          <p className="copyright mb-0">&copy; 2025 Mr. Krushna Chandra Nayak. All rights reserved.</p>
+          <p className="copyright mb-0">&copy; 2026 Mr. Sunil ❤️ All rights reserved.</p>
         </div>
       </footer>
     </div>
